@@ -1,5 +1,5 @@
 # Robots Humanoides NAO
-﻿# Informe de la robots humanoides desarrollado en la visita a la Universidad de la Sabana(Fundamentos de Robótica móvil - 2024 1S)
+﻿Informe de la robots humanoides desarrollado en la visita a la Universidad de la Sabana(Fundamentos de Robótica móvil - 2024 1S)
 
 ***Universidad Nacional de Colombia***
 ***Departamento de Ingeniería Mecánica y Mecatrónica***
