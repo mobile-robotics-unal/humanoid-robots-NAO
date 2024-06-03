@@ -1,1 +1,3 @@
+## Introducción
 
+El propósito de la visita al laboratorio de robots humanoides de la Universidad de La Sabana es explorar y conocer en profundidad a los robots NAO, una innovadora plataforma robótica. Durante la visita, los participantes tendrán la oportunidad de aprender sobre el funcionamiento, la historia y la construcción de estos robots humanoides. Además, se proporcionará una introducción al entorno de programación Choregraphe, utilizado para programar y personalizar las rutinas de los robots. Un aspecto destacado de la visita será la creación de una rutina personalizada de baile para los robots NAO, lo que permitirá a los participantes aplicar sus conocimientos de programación y creatividad.
