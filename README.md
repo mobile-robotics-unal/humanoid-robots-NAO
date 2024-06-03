@@ -15,19 +15,19 @@ Este repositorio contiene el informe con la siguiente tabla de contenido, inclui
 
 
 
-### 1. [Introducción](docs/a_1_what_is_ROS.md)
+### 1. [Introducción](docs/1_introduccion.md)
 
-### 2. [Descripción del laboratorio](docs/a_2_basic_ROS_commands.md)
+### 2. [Descripción del laboratorio](docs/2_descripcion.md)
 
-### 3. [Aspectos de la programación](docs/a_3_python_code_explained.md)
+### 3. [Aspectos de la programación](docs/3_programacion.md)
 
-### 4. [Actividades realizadas](docs/a_4_turtle_teleop_exploration.md)
+### 4. [Actividades realizadas](docs/4_actividades.md)
 
-### 5. [Interacción con los robots](docs/a_5_ROS_services.md)
+### 5. [Interacción con los robots](docs/5_interaccion.md)
 
-### 6. [Análisis y Reflexión](docs/a_5_ROS_services.md)
+### 6. [Análisis y Reflexión](docs/6_analisis.md)
 
-### 7. [Conclusión](docs/a_5_ROS_services.md)
+### 7. [Conclusión](docs/7_conclusion.md)
 
-### 8. [Anexos](docs/a_5_ROS_services.md)
+### 8. [Anexos](docs/8_conclusion.md)
 
