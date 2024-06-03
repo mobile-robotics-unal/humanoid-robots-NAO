@@ -1,9 +1,11 @@
 ## Descripción del laboratorio
 ### Instalaciones y Equipo:
 El laboratorio de robots humanoides de la Universidad de La Sabana está diseñado para fomentar el aprendizaje interactivo y práctico en un entorno colaborativo. El espacio cuenta con cuatro mesas, cada una equipada con un robot NAO. Cada mesa está organizada para acomodar a seis personas, facilitando el trabajo en equipo y la colaboración. Además de los robots NAO, el laboratorio también cuenta con el robot bípedo Bioloid Premium, ofreciendo una diversidad de plataformas robóticas para el aprendizaje. Las instalaciones incluyen computadoras con el software Choregraphe, utilizado para programar y personalizar las rutinas de los robots, así como otras herramientas tecnológicas relevantes para la programación y experimentación en robótica.
-Robot Bipedo Bioloid
+
+### Robot Bipedo Bioloid
 ![WhatsApp Image 2024-06-02 at 8 23 04 PM](https://github.com/mobile-robotics-unal/humanoid-robots-NAO/assets/49196698/69ffb7d3-a6b6-43d8-a89c-89ed27fded18)
-Robot NAO
+
+### Robot NAO
 ![robotbipedo](https://github.com/mobile-robotics-unal/humanoid-robots-NAO/assets/49196698/a7cca4f9-bb30-434c-b609-fe5a9193a4c3)
 
 Robots Humanoides NAO:
