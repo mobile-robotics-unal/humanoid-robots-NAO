@@ -11,7 +11,7 @@ Los robots NAO presentes en el laboratorio son una plataforma robótica avanzada
 - Peso: Alrededor de 5.4 kg.
 - Articulaciones: 25 grados de libertad, permitiendo una amplia gama de movimientos.
 - Sensores: Equipados con sensores de presión, sensores de ultrasonido, cámaras HD en la cabeza, micrófonos, giroscopios y acelerómetros.
-- 
+
 ### Capacidades:
 
 Movilidad: Capaz de caminar, sentarse, levantarse, y realizar movimientos complejos gracias a sus múltiples articulaciones.
