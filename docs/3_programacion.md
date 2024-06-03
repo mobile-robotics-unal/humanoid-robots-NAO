@@ -39,3 +39,9 @@ motion_proxy.angleInterpolationWithSpeed("RShoulderPitch", 1.0, 0.2)
 ````
 
 Función: Este código conecta con el robot NAO y lo programa para decir "Hola, bienvenidos al laboratorio de robots humanoides" mientras realiza un gesto de saludo.
+
+Ejemplo 2: Rutina de baile
+
+![rutina](https://github.com/mobile-robotics-unal/humanoid-robots-NAO/assets/49196698/68cca956-0767-4e14-a01e-9aca5044e27e)
+
+Función: Este código es generado con los códigos predeterminados de choregraphe, y nos permite unir las líneas de código para crear una rutina personalizada.
