@@ -21,4 +21,6 @@ A pesar de los desafíos enfrentados, los resultados de las actividades fueron p
 - Resolver problemas técnicos relacionados con la estabilización y suavidad de los movimientos.
 - Desarrollar una mayor comprensión de las capacidades y limitaciones de los robots NAO.
 - Fomentar la creatividad y el trabajo en equipo para diseñar y ejecutar una rutina de baile, aunque incompleta, que reflejaba los conocimientos adquiridos.
+
+
 En resumen, la experiencia fue altamente educativa y enriquecedora, proporcionando una visión profunda de las nuevas tecnologías robóticas y sus aplicaciones prácticas. La visita no solo amplió los conocimientos técnicos de los participantes, sino que también les abrió la mente a las posibilidades futuras en el campo de la robótica.
