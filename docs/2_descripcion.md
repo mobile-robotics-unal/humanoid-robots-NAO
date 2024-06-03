@@ -5,7 +5,7 @@ El laboratorio de robots humanoides de la Universidad de La Sabana está diseña
 Robots Humanoides NAO:
 Los robots NAO presentes en el laboratorio son una plataforma robótica avanzada y versátil, desarrollada por SoftBank Robotics. A continuación se detallan algunas de sus características y capacidades:
 
-Características Físicas:
+### Características Físicas:
 
 - Altura: Aproximadamente 58 cm.
 - Peso: Alrededor de 5.4 kg.
