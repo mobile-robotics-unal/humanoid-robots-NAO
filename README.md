@@ -29,5 +29,5 @@ Este repositorio contiene el informe con la siguiente tabla de contenido, inclui
 
 ### 7. [Conclusión](docs/7_conclusion.md)
 
-### 8. [Anexos](docs/8_conclusion.md)
+### 8. [Anexos](docs/8_anexos.md)
 
