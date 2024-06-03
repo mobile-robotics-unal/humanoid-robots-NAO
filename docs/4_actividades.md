@@ -11,7 +11,7 @@ https://github.com/mobile-robotics-unal/humanoid-robots-NAO/assets/49196698/22fa
 
 
 ### Observación de Robots en Competencias de Fútbol:
-Posteriormente, los participantes tuvieron la oportunidad de observar a los robots NAO en acción, compitiendo en fútbol robótico. Se presentaron los códigos y estrategias utilizadas para programar a los robots en este contexto competitivo, mostrando cómo se diseñan y ejecutan rutinas avanzadas para permitir que los robots jueguen al fútbol contra equipos de otras universidades. Esta actividad ilustró el potencial de los robots NAO en aplicaciones de alta complejidad y colaboración en equipo.
+Posteriormente, los participantes tuvieron la oportunidad de observar a los robots NAO en acción, con rutinas que usaban para sus competencias en fútbol robótico. Se explicaron los códigos y estrategias utilizadas para programar a los robots en este contexto competitivo, mostrando cómo se diseñan y ejecutan rutinas avanzadas para permitir que los robots jueguen al fútbol contra equipos de otras universidades. Esta actividad ilustró el potencial de los robots NAO en aplicaciones de alta complejidad y colaboración en equipo.
 
 
 
@@ -21,6 +21,10 @@ https://github.com/mobile-robotics-unal/humanoid-robots-NAO/assets/49196698/4568
 
 ### Programación de una Rutina de Baile por Equipos:
 Finalmente, los participantes formaron equipos para aplicar lo aprendido y programar una rutina de baile personalizada para los robots NAO. Utilizando Choregraphe, cada equipo diseñó y ejecutó una secuencia de movimientos sincronizados, integrando elementos de programación de movimientos, reconocimiento de voz y coordinación de gestos. Esta actividad no solo reforzó los conocimientos adquiridos, sino que también fomentó la creatividad y el trabajo en equipo.
+
+
+
+https://github.com/mobile-robotics-unal/humanoid-robots-NAO/assets/49196698/1105d9cb-88be-47a8-bad4-d891f0f75453
 
 
 
